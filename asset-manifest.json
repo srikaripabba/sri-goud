@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sri-goud/static/css/main.e6c13ad2.css",
+    "main.js": "/sri-goud/static/js/main.29657cad.js",
+    "static/js/453.759a809a.chunk.js": "/sri-goud/static/js/453.759a809a.chunk.js",
+    "index.html": "/sri-goud/index.html",
+    "main.e6c13ad2.css.map": "/sri-goud/static/css/main.e6c13ad2.css.map",
+    "main.29657cad.js.map": "/sri-goud/static/js/main.29657cad.js.map",
+    "453.759a809a.chunk.js.map": "/sri-goud/static/js/453.759a809a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.29657cad.js"
+  ]
+}
